@@ -1,0 +1,30 @@
+button {
+    margin: 5px 25px;
+}
+.rounded button {
+    background-color: white;
+    border-color:teal;
+    color: teal;
+    border-radius: 25px;
+    width: 125px;
+    height: 25px;
+    font-weight: bold;
+}
+.circle button{
+    background-color: turquoise;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border-color: transparent;
+    color: white;
+    font-size: 25px;
+}
+.shadow button{
+    background-color: royalblue;
+    width: 175px;
+    height: 35px;
+    color: white;
+    font-weight: lighter;
+    border-color: black;
+    box-shadow: 3px 3px black;
+}
