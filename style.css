@@ -3,15 +3,15 @@ button {
 }
 .rounded button {
     background-color: white;
-    border-color:teal;
-    color: teal;
+    border-color:rgb(124, 200, 201);
+    color: rgb(124, 200, 201);
     border-radius: 25px;
     width: 125px;
     height: 25px;
     font-weight: bold;
 }
 .circle button{
-    background-color: turquoise;
+    background-color: rgb(0, 209, 178);
     width: 35px;
     height: 35px;
     border-radius: 50%;
@@ -20,7 +20,7 @@ button {
     font-size: 25px;
 }
 .shadow button{
-    background-color: royalblue;
+    background-color: rgb(43,120,228);
     width: 175px;
     height: 35px;
     color: white;
